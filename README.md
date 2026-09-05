@@ -1,8 +1,7 @@
 TCP Part2
 # TCP Authentication Server & Client  
-CST8108 – Networking Labs  
 Mohammed Tahar Souida – 041200233  
-CET‑CS Level 2  
+
 
 ---
 
