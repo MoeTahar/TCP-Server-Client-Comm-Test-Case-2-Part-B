@@ -1,6 +1,5 @@
 TCP Part2
 # TCP Authentication Server & Client  
-Mohammed Tahar Souida – 041200233  
 
 
 ---
